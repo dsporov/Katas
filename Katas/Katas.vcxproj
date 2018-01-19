@@ -23,7 +23,7 @@
     <ProjectGuid>{2B39D9D3-AC0A-40C7-9DF0-B86D9A6E3686}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Katas</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -154,8 +154,10 @@
     <ClCompile Include="missingInArithmeticProgression.cpp" />
     <ClCompile Include="Mix.cpp" />
     <ClCompile Include="multi_3_5.cpp" />
+    <ClCompile Include="Number_of_Proper_Fractions_with_Denominator_d.cpp" />
     <ClCompile Include="Phone_Directory.cpp" />
     <ClCompile Include="PiApprox.cpp" />
+    <ClCompile Include="Roman_Numerals_Encoder.cpp" />
     <ClCompile Include="sortByLength.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
@@ -166,6 +168,7 @@
     <ClCompile Include="stray.cpp" />
     <ClCompile Include="SumNth.cpp" />
     <ClCompile Include="TourGraph.cpp" />
+    <ClCompile Include="Tuple_sum.cpp" />
     <ClCompile Include="Zeroes.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
