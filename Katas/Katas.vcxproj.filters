@@ -30,6 +30,9 @@
     <ClInclude Include="SumNth.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="PerfMeasure.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -93,6 +96,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Number_of_Proper_Fractions_with_Denominator_d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Large_Factorials.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -6,3 +6,4 @@
 #pragma once
 
 #include "targetver.h"
+#include "PerfMeasure.h"
