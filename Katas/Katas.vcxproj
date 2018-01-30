@@ -147,9 +147,12 @@
   <ItemGroup>
     <ClCompile Include="arrayToTree.cpp" />
     <ClCompile Include="Chain_adding_function.cpp" />
+    <ClCompile Include="Constructing_a_car.cpp" />
+    <ClCompile Include="Count_ones_in_a_segment.cpp" />
     <ClCompile Include="declareWinner.cpp" />
     <ClCompile Include="Encode.cpp" />
     <ClCompile Include="FoldArrayByMiddle.cpp" />
+    <ClCompile Include="Going_to_zero_or_to_infinity.cpp" />
     <ClCompile Include="Johnann_katas.cpp" />
     <ClCompile Include="Large_Factorials.cpp" />
     <ClCompile Include="main.cpp" />

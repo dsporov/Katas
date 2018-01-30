@@ -101,5 +101,14 @@
     <ClCompile Include="Large_Factorials.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Count_ones_in_a_segment.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Constructing_a_car.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Going_to_zero_or_to_infinity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
