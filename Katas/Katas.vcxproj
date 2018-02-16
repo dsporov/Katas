@@ -152,8 +152,10 @@
     <ClCompile Include="declareWinner.cpp" />
     <ClCompile Include="Encode.cpp" />
     <ClCompile Include="FoldArrayByMiddle.cpp" />
+    <ClCompile Include="German-Fussball-Bundesliga.cpp" />
     <ClCompile Include="Going_to_zero_or_to_infinity.cpp" />
     <ClCompile Include="Johnann_katas.cpp" />
+    <ClCompile Include="k-Primes.cpp" />
     <ClCompile Include="Large_Factorials.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="missingInArithmeticProgression.cpp" />
