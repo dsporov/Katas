@@ -19,5 +19,10 @@
 
 #include <assert.h>
 
+//void test_replaceQuestionMarks();
+void test_letterCombinations();
+
 int main() {
+	//test_replaceQuestionMarks();
+	test_letterCombinations();
 }

@@ -7,3 +7,8 @@
 
 #include "targetver.h"
 #include "PerfMeasure.h"
+
+#include <vector>
+#include <map>
+#include <set>
+#include <algorithm>
